@@ -1,0 +1,8 @@
+@font-face {
+  font-family: "Nunito";
+  src: local("Nunito"),
+    url("./fonts/Nunito_Sans/NunitoSans-Black.ttf") format("truetype")
+    url("./fonts/Nunito_Sans/NunitoSans-BlackItalic.ttf") format("truetype")
+    url("./fonts/Nunito_Sans/NunitoSans-SemiBold.ttf") format("truetype");
+  font-weight: normal;
+}

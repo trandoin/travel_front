@@ -1,0 +1,66 @@
+/* @import url('https://fonts.googleapis.com/css?family=Patrick+Hand+SC|Roboto&display=swap'); */
+
+@import url('https://fonts.googleapis.com/css2?family=Nunito+Sans:wght@200;300;400&display=swap');
+
+*{
+    font-size: 16px;
+}
+
+body {
+  font-family: "Nunito Sans";
+  font-size: 65.4%;
+}
+
+.underline{
+    text-decoration:none;
+    font-family: Nunito Sans;
+    /* font-size: 1.2rem; */
+    line-height: 1.247rem;
+    color:rgba(91, 36, 108, 1);
+}
+
+.underline1{
+    text-decoration:none;
+}
+
+.email{
+    font-family: Nunito Sans;
+font-style: normal;
+font-weight: bold;
+font-size: 1rem;
+margin-bottom: -0.7rem;
+margin-top: 1rem;
+/* line-height: 1rem; */
+}
+
+.login_button{
+    padding: 1rem;
+}
+
+.google{
+    margin-left: 7vh;
+}
+
+@media only screen and (max-width: 666px)
+ {
+    .create{
+        font-size: 2rem !important; 
+    }
+    .account{
+        font-size: 0.6rem !important; 
+    }
+    .account1{
+        font-size: 0.70rem !important; 
+        margin-top: 03rem !important;
+    }
+
+    .google{
+        font-size: 0.7rem !important;
+        margin-left: 7vh !important;
+    }
+
+    .fields{
+        /* padding: 6.5px 7px !important; */
+        margin: 0.3rem auto !important;
+    }
+}

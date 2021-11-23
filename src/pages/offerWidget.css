@@ -1,0 +1,31 @@
+.offer_widget_special_offer_tag {
+  position: absolute;
+  width: 142.58px;
+  height: 23.97px;
+  left: 67.71px;
+  font-weight: 500;
+  font-size: 20.1887px;
+  line-height: 24px;
+  position: absolute;
+  width: 142.58px;
+  height: 23.97px;
+  left: 67.71px;
+  top: 2776.19px;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 20.1887px;
+  line-height: 24px;
+  /* identical to box height */
+  color: #000000;
+}
+
+.offer_widget_outer_box {
+  width: 829px;
+  height: 158.99px;
+  background: rgba(91, 36, 108, 0.1);
+  backdrop-filter: blur(3.78539px);
+  border: solid;
+  margin:'2px';
+  /* Note: backdrop-filter has minimal browser support */ 
+  border-radius: 18.9269px;
+}
